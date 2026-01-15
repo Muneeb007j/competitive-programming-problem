@@ -1,0 +1,21 @@
+{
+    "peoject": "Prime Factorial Array",
+    "language": "Python 3",
+    "input": ["N B","Array A"],
+    "limits":{ 
+        "factorial_max": 20,
+        "budget": "B >=0"
+    },
+    "requirnments": [
+        "Compute primes up tu 20",
+        "Count primes as factorial cost",
+        "Select max factorial under the budget",
+        "Replace smaalest array element",
+        "Print final sum"
+    ],
+    "algorithms": ["Sieve", "Greedy"],
+    "Complexity": {
+        "time": "O(N)",
+        "space": "O(1)"
+    }
+}
