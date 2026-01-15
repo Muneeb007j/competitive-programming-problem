@@ -1,6 +1,6 @@
 # Competitive Programming Problem Design (Div1/Div2)
 
-This repository contains an original competitive programming problem designed as part of an individual internship task.
+This repository contains an original competitive programming problem designed.
 
 The project includes the full problem statement, idea development, editorial, optimal Python solution, test cases, and adversarial evaluation against a large language model (Qwen).
 
